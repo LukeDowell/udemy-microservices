@@ -45,6 +45,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/LabOne/pom.xml" />
+        <option value="$PROJECT_DIR$/LabThreeServer/pom.xml" />
+        <option value="$PROJECT_DIR$/LabThreeClient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4subject/pom.xml" />
       </list>
     </option>
   </component>

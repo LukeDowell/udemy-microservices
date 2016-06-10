@@ -2,5 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/LabOne" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LabThreeClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LabThreeServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab4eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab4subject" charset="UTF-8" />
   </component>
 </project>
