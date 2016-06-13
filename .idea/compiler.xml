@@ -22,16 +22,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="lab4adjective" />
+        <module name="lab4article" />
         <module name="lab4eurekaserver" />
+        <module name="lab4noun" />
         <module name="lab4subject" />
+        <module name="lab4verb" />
         <module name="LabOne" />
         <module name="LabThreeClient" />
         <module name="LabThreeServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lab4adjective" target="1.8" />
+      <module name="lab4article" target="1.8" />
       <module name="lab4eurekaserver" target="1.8" />
+      <module name="lab4noun" target="1.8" />
       <module name="lab4subject" target="1.8" />
+      <module name="lab4verb" target="1.8" />
       <module name="LabOne" target="1.8" />
       <module name="LabThreeClient" target="1.5" />
       <module name="LabThreeServer" target="1.5" />

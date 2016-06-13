@@ -49,6 +49,10 @@
         <option value="$PROJECT_DIR$/LabThreeClient/pom.xml" />
         <option value="$PROJECT_DIR$/lab4eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/lab4subject/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4article/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4adjective/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4noun/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4verb/pom.xml" />
       </list>
     </option>
   </component>
