@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by ldowell on 6/10/16.
  */
 @RestController
-public class SubjectController {
+public class WordController {
 
     @Value("${words}")
     private String words;
