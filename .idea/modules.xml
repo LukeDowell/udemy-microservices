@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Configuration/Configuration.iml" filepath="$PROJECT_DIR$/Configuration/Configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabOne/LabOne.iml" filepath="$PROJECT_DIR$/LabOne/LabOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabThreeClient/LabThreeClient.iml" filepath="$PROJECT_DIR$/LabThreeClient/LabThreeClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabThreeServer/LabThreeServer.iml" filepath="$PROJECT_DIR$/LabThreeServer/LabThreeServer.iml" />
